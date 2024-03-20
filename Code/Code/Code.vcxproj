@@ -33,6 +33,7 @@
     <ClInclude Include="Item.h" />
     <ClInclude Include="Monster.h" />
     <ClInclude Include="Player.h" />
+    <ClInclude Include="PriorityQueue.h" />
     <ClInclude Include="Types.h" />
     <ClInclude Include="Weapon.h" />
   </ItemGroup>

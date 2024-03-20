@@ -58,5 +58,8 @@
     <ClInclude Include="Weapon.h">
       <Filter>User</Filter>
     </ClInclude>
+    <ClInclude Include="PriorityQueue.h">
+      <Filter>DataStructure</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
