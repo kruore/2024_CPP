@@ -1,0 +1,12 @@
+﻿  Main.cpp
+  Tree.cpp
+  코드를 생성하고 있습니다...
+C:\Users\Cogsci\Documents\GitHub\2024_CPP\LSJ_Project\LSJ_Project\Tree.h(16,2): error C2955: 'Node': 클래스 템플릿을(를) 사용하려면 템플릿 인수 목록이 필요합니다.
+  (소스 파일 '/Tree.cpp'을(를) 컴파일하는 중)
+  C:\Users\Cogsci\Documents\GitHub\2024_CPP\LSJ_Project\LSJ_Project\Node.h(4,1):
+  'Node' 선언을 참조하십시오.
+  C:\Users\Cogsci\Documents\GitHub\2024_CPP\LSJ_Project\LSJ_Project\Tree.h(16,2):
+  템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+  	C:\Users\Cogsci\Documents\GitHub\2024_CPP\LSJ_Project\LSJ_Project\Tree.h(18,2):
+  	컴파일되는 클래스 템플릿 인스턴스화 'Tree<T>'에 대한 참조를 확인하세요.
+  
